@@ -430,6 +430,7 @@ section {
     background: #f8f3fa;
     border-radius: 12px;
     margin-bottom: 18px;
+    display: block;
 }
 
 .education-icon {
